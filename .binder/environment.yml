@@ -1,0 +1,7 @@
+name: 7ython-project-template
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pandas
+  - numpy
