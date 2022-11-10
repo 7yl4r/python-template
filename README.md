@@ -10,3 +10,9 @@ template for starting in on an experiment in python using my preferred tooling.
 2. add info to setup.cfg
 3. rename `projname` folder
 4. update `{projname}/__init__.py`
+
+# projname installation
+
+```
+python -m pip install -e .
+````
