@@ -14,6 +14,4 @@ __title__ = "todo_packagename_here"
 # __author__ = ""
 __license__ = "MIT"
 
-__all__ = [
-
-]
+__all__ = []
